@@ -1,0 +1,9 @@
+[submodule "llama2-mojo"]
+	path = llama2-mojo
+	url = https://github.com/tairov/llama2.mojo.git
+[submodule "llama2-py"]
+	path = llama2-py
+	url = https://github.com/tairov/llama2.py.git
+[submodule "llama2-c"]
+	path = llama2-c
+	url = https://github.com/karpathy/llama2.c.git
